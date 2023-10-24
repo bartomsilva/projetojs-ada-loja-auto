@@ -22,3 +22,23 @@ Dado o escopo global da aplicação, pede-se desenvolver cada subtarefa visando,
 
 5. Tratar o retorno de erro ou sucesso da função "enviarEmail", de maneira a exibir uma mensagem amigável ao usuário no console.
 Observações
+
+### Como executar esta aplicação:
+
+1) Copie este link
+   ```
+   https://github.com/bartomsilva/projetojs-ada-loja-auto.git
+   ```  
+2) Escolha uma pasta de sua preferência e dentro esta pasta abra o windows terminal ou gitbash.
+
+3) No terminal execute o camando abaixo:
+  ```
+  git clone cole-o-link-acima-aqui
+  ```
+4) Entre na pasta que foi criada após o clone e execute o seguinte comando:
+   ```
+   node index
+   ```
+
+
+

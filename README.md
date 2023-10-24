@@ -15,7 +15,7 @@ Dado o escopo global da aplicação, pede-se desenvolver cada subtarefa visando,
    ![image](https://github.com/bartomsilva/projetojs-ada-loja-auto/assets/106079184/250eb719-2bb0-4d3b-8b33-3975bb45fcab)
 
 3. Criar uma função para montar o corpo do e-mail a ser enviado.<br/>
-   ![image](https://github.com/bartomsilva/projetojs-ada-loja-auto/assets/106079184/cddfde08-71d7-4920-8a85-743375fd3bde)
+   ![image](https://github.com/bartomsilva/projetojs-ada-loja-auto/assets/106079184/2d119219-cd27-435e-97ad-b7d2ef48f360)
 
 4. Criar uma função para enviar o e-mail para cada um dos clientes da lista, levando em conta a sua decisão sobre receber comunicações de marketing.<br/>
    ![image](https://github.com/bartomsilva/projetojs-ada-loja-auto/assets/106079184/6ea53a88-78d3-4617-ab0f-ffc83969bcce)

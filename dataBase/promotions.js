@@ -9,4 +9,4 @@ const promotions = {
           em 70x de R$ 30 mil
       `,
 };
-module.exports = promotions;
+module.exports = promotions

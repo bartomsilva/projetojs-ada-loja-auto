@@ -9,9 +9,8 @@ function createMessage(name) {
 
   Confira essas promoções!!!
 
-    ${promotions[1]}    
-    ${promotions[2]}
-
+  ${loadPromotions()}    
+    
   Mas vendidos!!!  
     ${bestSelling[1]}
     
@@ -24,12 +23,18 @@ function createMessage(name) {
 
     nosso endereço:
     Rua dos Sonhos, nº 1101, Bairro: Dreaws
-    Recife - PE  
-    
-  `;
+    Recife - PE      
+  `
 }
 
-module.exports = createMessage;
+function loadPromotions(){
+  let textPromotions=""
+  for( const p in promotions){
+    textPromotions+=promotions[p]+"\n  "
+  }
+  return textPromotions  
+}
+module.exports = createMessage
 
   
  

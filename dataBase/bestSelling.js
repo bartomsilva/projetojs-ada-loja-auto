@@ -5,4 +5,4 @@ const bestSelling = {
     * Volkswagen Polo`,
 };
 
-module.exports = bestSelling;
+module.exports = bestSelling

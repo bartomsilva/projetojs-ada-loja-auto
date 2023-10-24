@@ -39,6 +39,21 @@ Observações
    ```
    node index
    ```
+   Nesse momento o aplicativo irá executar e ficará ativo até que seja interrompido, fazendo a checagem, e toda segunda-feira enviará aos clientes conforme os critéris solicitados
+   uma email informando sobre as promoções, os dados da promoção (ficticiamente estariam contidos em um banco de dados).<br/>
+   **Mais vendidos**<br/>
+    ![image](https://github.com/bartomsilva/projetojs-ada-loja-auto/assets/106079184/b0f19f3b-877a-482c-bac5-a62da095e1da)<br/>
+   **Promoções**<br/>
+    ![image](https://github.com/bartomsilva/projetojs-ada-loja-auto/assets/106079184/16586b36-a4e2-4077-8b82-e2c6dd08250e)<br/>
+   **Configuração geral**<br/>
+    ![image](https://github.com/bartomsilva/projetojs-ada-loja-auto/assets/106079184/4f146b04-1bab-4b7c-bb7e-b98960b06524)
+
+   #Vídeo Explicativo
+
+
+
+
+    
 
 
 
